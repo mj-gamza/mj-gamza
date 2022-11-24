@@ -5,13 +5,13 @@
 <br/><br/><br/>
 
 <div text-align=left>
-  <h3>안녕하세요!👋</h3>
-  <h4>주니어 백엔드 개발자 정민정입니다.🐣</h4>
+  <h3>👋Hi, there👋</h3>
+  <h4>안녕하세요! 제 이름은 정민정이고, 공연을 좋아해요🐣</h4>
+  <h4>현재는 백엔드 개발자가 되기 위해 열심히 공부하고 있어요.🤓</h4>
 </div>
 <br/>
 
 <h3>🛠SKILLS🛠</h3>
-<h4>Language · Framework</h4>
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)&nbsp;&nbsp;&nbsp;![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)&nbsp;&nbsp;&nbsp;![Springboot](https://img.shields.io/badge/Spring%20boot-6DB33F.svg?&style=for-the-badge&logo=Springboot&logoColor=white)&nbsp;&nbsp;&nbsp;![ORACLE](https://img.shields.io/badge/ORACLE-F80000.svg?&style=for-the-badge&logo=ORACLE&logoColor=white)&nbsp;&nbsp;&nbsp;
 <br/>
